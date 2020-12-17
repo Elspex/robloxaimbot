@@ -12,10 +12,10 @@
 - Client (to turn things on/off)
 
 # How to install
-1. Download this repo.
-2. Locate `JJSPLOIT.EXE` and install it.
+1. Download this repo. 
+2. Go here [https://wearedevs.net/d/JJSploit] download `JJSPLOIT.EXE` and install it.
 3. Open Roblox (this hack has been tested on arsenal)
-4. Locate `hackscriptv4.txt` and copy all the code inside it.
+4. Locate `robloxaimbothackv4.txt` and copy all the code inside it.
 5. Open JJSLOIT
 6. Paste the code. 
 7. Press attach.
