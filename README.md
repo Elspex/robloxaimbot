@@ -13,7 +13,7 @@
 
 # How to install
 1. Download this repo. 
-2. Go here [https://wearedevs.net/d/JJSploit] download `JJSPLOIT.EXE` and install it.
+2. Go [here] [https://wearedevs.net/d/JJSploit] download `JJSPLOIT.EXE` and install it.
 3. Open Roblox (this hack has been tested on arsenal)
 4. Locate `robloxaimbothackv4.txt` and copy all the code inside it.
 5. Open JJSLOIT
